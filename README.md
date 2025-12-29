@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently studying in guru nanak dev university<br>i m learning verilog ,c and app development <br>
+ hi my name is aryan rajput  currently studying in guru nanak dev university<br>i m learning verilog ,c and app development <br>
 
 
 ## 🌐 Socials:
